@@ -1,2 +1,3 @@
+Heading
 New file
 Second file line
